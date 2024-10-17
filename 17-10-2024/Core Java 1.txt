@@ -1,0 +1,5 @@
+Generic Pair Class:
+Implement a generic class Pair<T, U> that can hold two objects of types T and U. Provide methods to get and set the values of the pair.
+
+Swap Method:
+Write a generic method swap that takes an array of any type and swaps the first and last elements of the array. Demonstrate its functionality with a sample array.

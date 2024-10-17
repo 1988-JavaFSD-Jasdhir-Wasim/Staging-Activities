@@ -1,0 +1,5 @@
+Task Management System:
+
+Users can create, update, delete tasks.
+Task priorities, due dates, and statuses (e.g., open, closed) can be managed.
+Authentication and authorization for users.

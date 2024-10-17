@@ -1,0 +1,7 @@
+Scenario 1: Choosing the Right Collection
+You are developing an application where you need to store a collection of unique usernames. These usernames will be frequently checked for existence and occasionally added or removed. Which Java collection would you choose and why?
+Answer:The best choice would be HashSet. HashSet is ideal because it stores elements in a hash table, ensuring that each element is unique (no duplicates). Checking for existence (contains operation) is very efficient (average O(1) time complexity), and adding/removing elements is also efficient (average O(1) amortized time complexity). This makes it suitable for storing unique usernames with good performance characteristics.
+
+Scenario 2: Maintaining Order
+You are developing a system to process student grades. Each student has a unique student ID, and you need to store grades in the order they are received. Which Java collection would be appropriate for this scenario?
+Answer:LinkedHashMap would be a suitable choice. LinkedHashMap maintains insertion order of keys, which means it will store the grades in the order they are added. This is beneficial if you need to process grades in the order they were received without sorting.

@@ -1,0 +1,18 @@
+Fundamental/Basics
+Path
+Classpath
+Command line inputs
+Multiple classes in a single source file
+Scanner for user input
+System.console for user input
+
+Variables – instance, static, parameter, local variable
+Variable naming conventions
+Data types and primitive types – default values
+Wrapper classes
+Autoboxing and unboxing
+ 
+Numbers and underscores
+Array – initialization and iterations
+Array manipulation
+Var for local variables
