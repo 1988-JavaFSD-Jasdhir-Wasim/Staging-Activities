@@ -5,5 +5,6 @@ T pop(): Removes and returns the item at the top of the stack.
 T peek(): Returns the item at the top of the stack without removing it.
 boolean isEmpty(): Checks if the stack is empty.
 int size(): Returns the number of items in the stack.
+
 Type-safe Container
 Develop a type-safe container class Container<T> that can hold a single object of type T. Include methods to set and retrieve the object.
