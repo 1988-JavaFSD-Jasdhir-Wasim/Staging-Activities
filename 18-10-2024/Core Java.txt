@@ -1,0 +1,21 @@
+Generics
+•	Generic class
+•	Generic methods
+•	Diamond operator
+•	Parameterized type
+•	Inheritance impact in generics
+•	Type inference
+
+Lambda expression
+•	Functional interface
+•	Function, supplier, consumer, Predict
+•	Method references
+•	Chain methods
+
+Annotations
+Predefined annotations
+
+Package creation
+Importing
+Abstraction in packages
+Static import

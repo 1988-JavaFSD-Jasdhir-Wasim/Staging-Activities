@@ -1,0 +1,5 @@
+Library Management System:
+
+Manage books, authors, and borrowers.
+Allow users to borrow, return, and renew books.
+Fine calculation based on return dates.
