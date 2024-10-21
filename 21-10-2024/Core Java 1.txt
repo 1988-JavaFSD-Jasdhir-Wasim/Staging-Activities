@@ -1,0 +1,5 @@
+Bounded Type Parameters:
+Write a method printList(List<? extends Number> list) that takes a list of elements bounded to the Number type and prints each element.
+
+Generic Method to Find Maximum:
+Implement a generic method findMax(T[] array) that takes an array of elements implementing the Comparable interface and returns the maximum element.

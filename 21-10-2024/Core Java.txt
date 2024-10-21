@@ -1,0 +1,32 @@
+Exception
+•	Exception & Errors
+•	Exception call stack
+•	Try-catch-finally
+•	Catch or specify (throw) approach
+•	Checked exception, error and runtime exception
+•	Multicatch
+•	Try with resources
+•	Throwing Exception
+•	Chained Exception
+•	Custom exception
+•	Stack tree
+
+Collection
+Collection vs array
+Iterable
+List, Set & Map
+Common collection operations
+Collection to array and array to collection
+Iterating collection using for…each
+Stack and queue
+Push and pop
+LIFO and FIFO
+
+Stream:
+Map-filter-reduce
+Collection to Stream
+Array to stream
+Stream to collection 
+Stream to Array
+Optional
+Parallel stream
