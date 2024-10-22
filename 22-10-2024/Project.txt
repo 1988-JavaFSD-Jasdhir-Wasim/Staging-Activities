@@ -1,0 +1,5 @@
+Employee Directory:
+
+CRUD operations for employee profiles.
+Search and filter employees by department, position, etc.
+Role-based access control (admin, manager, employee).

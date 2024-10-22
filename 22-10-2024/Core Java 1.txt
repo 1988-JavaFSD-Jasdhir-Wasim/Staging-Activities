@@ -1,0 +1,8 @@
+Multi-Type Box:
+Create a class Box<T> that can hold an object of type T. Provide a method to display the type of the object it holds and its value.
+
+Generic Map Implementation:
+Design a simple generic map class MyMap<K, V> with the following methods:
+void put(K key, V value): Stores a key-value pair.
+V get(K key): Retrieves the value associated with a key.
+boolean containsKey(K key): Checks if a key exists in the map.
