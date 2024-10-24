@@ -1,0 +1,5 @@
+Wildcard Usage
+Write a method double sumList(List<? extends Number> list) that accepts a list of numbers (using wildcards) and returns the sum of all elements in the list.
+
+Generic Filter Method
+Create a method List<T> filter(List<T> list, Predicate<T> predicate) that takes a list of objects and a predicate (a functional interface) and returns a new list containing only the elements that match the predicate.

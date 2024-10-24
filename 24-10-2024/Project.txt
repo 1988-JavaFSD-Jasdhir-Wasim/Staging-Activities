@@ -1,0 +1,4 @@
+Event Management System:
+CRUD for events, venues, and attendees.
+RSVP functionality with confirmation emails.
+Calendar view for upcoming events.
